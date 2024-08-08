@@ -31,6 +31,7 @@ import AblaufBalken.ProzessFunktionList;
 public class ProzessBalken extends JDialog
 {
 	
+	//TODO HI TEST
 	private JPanel jContentPane;
 	
 	private Container jContentPaneLabel;
